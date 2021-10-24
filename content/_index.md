@@ -7,3 +7,5 @@ seo:
 
 ---
 # Bla **Bla** Bla
+
+![](https://hanoistudios.com/dist/images/icon.png)
